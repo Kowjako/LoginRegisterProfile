@@ -12,7 +12,7 @@ Standardowa registracja która może być nieco inaczej utworzona na żądanie t
 Po nacisnięciu SEND CODE pojawia się label gdzie możliwe wpisanie hasła które jest wysyłane do wpisanego maila, mail sendera można redagować w ForgotForm.cs\
 ![gg1](https://user-images.githubusercontent.com/19534189/88537755-6de40100-d00e-11ea-9f86-18380b333a95.png)
 # Profile
-Prezentem do tego będzie forma dla obejrzenia konta jakiego-kolwiek uczęstnika\
+Prezentem do tego będzie forma dla obejrzenia konta jakiego-kolwiek uczęstnika, można znaleźć (branch : Profile)\
 ![Screenshot_1](https://user-images.githubusercontent.com/19534189/88537751-6cb2d400-d00e-11ea-9c82-26256a0b9990.png)\
 Oczywiście każdy posiadacz konta ma do dyspozycji redagowanie swojego konta\
 ![gg](https://user-images.githubusercontent.com/19534189/88537753-6d4b6a80-d00e-11ea-92ac-b9ca3d5a6d86.png)
